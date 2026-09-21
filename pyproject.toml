@@ -1,0 +1,7 @@
+[project]
+name = "SqlHero"
+version = "0.1.0"
+dependencies = [
+    "psycopg[binary]>=3,<4",
+    "ollama",
+]
