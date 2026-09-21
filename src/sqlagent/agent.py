@@ -157,7 +157,7 @@ def run_session():
             f"\nOnly the first {result['row_limit']} rows were included."
         )
 
-
+# Handle gracefully
 def main() -> int:
     logging.basicConfig(
         filename="sqlhero.log",
