@@ -1,0 +1,21 @@
+id,name,email,city,country,signup_date
+1,John Doe,john.doe@email.com,New York,USA,2023-01-15
+2,Jane Smith,jane.smith@email.com,London,UK,2023-02-20
+3,Mike Johnson,mike.j@email.com,Toronto,Canada,2023-03-10
+4,Sarah Williams,sarah.w@email.com,Sydney,Australia,2023-04-05
+5,Tom Brown,tom.brown@email.com,Berlin,Germany,2023-05-12
+6,Lisa Davis,lisa.d@email.com,Paris,France,2023-06-18
+7,Chris Wilson,chris.w@email.com,Tokyo,Japan,2023-07-22
+8,Emma Moore,emma.m@email.com,New York,USA,2023-08-15
+9,Alex Taylor,alex.t@email.com,London,UK,2023-09-10
+10,Olivia Anderson,olivia.a@email.com,Los Angeles,USA,2023-10-05
+11,Daniel Thomas,daniel.t@email.com,Chicago,USA,2023-11-12
+12,Sophia Jackson,sophia.j@email.com,Houston,USA,2023-12-20
+13,Matthew White,matthew.w@email.com,Toronto,Canada,2024-01-08
+14,Emily Harris,emily.h@email.com,Melbourne,Australia,2024-02-14
+15,James Martin,james.m@email.com,Munich,Germany,2024-03-22
+16,Ava Thompson,ava.t@email.com,Lyon,France,2024-04-18
+17,William Garcia,will.g@email.com,Osaka,Japan,2024-05-25
+18,Isabella Martinez,isabella.m@email.com,Miami,USA,2024-06-30
+19,Ethan Robinson,ethan.r@email.com,Manchester,UK,2024-07-15
+20,Mia Clark,mia.c@email.com,Vancouver,Canada,2024-08-20

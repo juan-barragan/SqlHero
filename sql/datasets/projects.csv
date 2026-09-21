@@ -1,0 +1,11 @@
+id,project_name,employee_id,start_date,end_date,budget,status
+1,Website Redesign,3,2024-01-10,2024-06-30,150000,in_progress
+2,Mobile App Development,1,2024-02-01,2024-08-31,250000,in_progress
+3,Database Migration,7,2024-03-15,2024-05-15,80000,completed
+4,CRM Implementation,20,2023-11-01,2024-01-31,120000,completed
+5,Marketing Campaign,2,2024-04-01,2024-12-31,200000,in_progress
+6,Security Audit,22,2024-05-10,2024-07-10,60000,in_progress
+7,Cloud Migration,25,2024-01-05,2024-09-30,300000,in_progress
+8,HR Portal,6,2024-06-01,2024-10-31,95000,planning
+9,Sales Dashboard,18,2024-02-15,2024-04-30,45000,completed
+10,Financial Reporting Tool,11,2024-03-01,2024-08-01,110000,in_progress

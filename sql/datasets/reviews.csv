@@ -1,0 +1,46 @@
+id,product_id,customer_id,rating,review_date,review_text
+1,1,1,5,2024-01-20,Excellent mouse! Very comfortable.
+2,1,7,4,2024-03-15,Good quality but a bit pricey
+3,1,10,5,2024-05-22,Best wireless mouse I've owned
+4,2,2,4,2024-01-25,Cable works well
+5,2,8,5,2024-04-10,Durable and fast charging
+6,4,4,5,2024-02-18,Amazing keyboard! Love the feel
+7,4,7,5,2024-06-05,Perfect for programming
+8,4,12,4,2024-08-20,Good build quality
+9,6,8,5,2024-05-15,Great sound quality
+10,6,1,4,2024-07-22,Comfortable for long use
+11,6,14,5,2024-09-30,Excellent noise cancellation
+12,6,3,4,2024-11-10,Good value for money
+13,10,7,5,2024-04-20,Crystal clear display
+14,10,10,5,2024-06-25,Perfect for work and gaming
+15,10,1,5,2024-11-20,Best monitor purchase ever
+16,10,3,4,2024-12-05,Good quality screen
+17,10,15,5,2024-12-10,Highly recommend
+18,11,2,4,2024-03-08,Comfortable chair
+19,11,6,5,2024-07-12,Great lumbar support
+20,11,10,4,2024-11-18,Good value
+21,13,9,5,2024-05-18,Amazing 4K quality
+22,13,14,5,2024-10-25,Professional grade webcam
+23,13,1,4,2024-12-12,Good for video calls
+24,14,5,4,2024-03-12,Nice sound for the price
+25,14,8,5,2024-08-08,Portable and loud
+26,16,7,5,2024-04-16,Fast and reliable storage
+27,16,11,5,2024-09-22,Great for backups
+28,16,14,4,2024-11-28,Good speed
+29,16,1,5,2024-12-18,Excellent SSD
+30,16,10,5,2024-12-20,Worth every penny
+31,17,5,5,2024-04-22,Perfect gaming mouse
+32,17,4,5,2024-08-10,Responsive and accurate
+33,17,12,4,2024-10-15,Good for the price
+34,18,5,5,2024-04-28,Best gaming keyboard
+35,18,4,4,2024-08-16,RGB looks amazing
+36,18,14,5,2024-11-05,Great tactile feedback
+37,26,5,5,2024-06-02,Incredible sound quality
+38,26,4,5,2024-08-25,Best gaming headset ever
+39,26,7,4,2024-10-30,Comfortable for hours
+40,26,14,5,2024-12-08,Perfect for competitive gaming
+41,1,15,5,2024-06-12,Precise and smooth
+42,6,9,5,2024-10-18,Battery lasts forever
+43,10,18,4,2024-12-15,Great color accuracy
+44,13,15,5,2024-11-22,Super clear video
+45,16,20,5,2024-12-22,Lightning fast transfers
